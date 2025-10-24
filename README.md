@@ -92,10 +92,10 @@ A new file named `output.pdf` will be generated in the root directory containing
 ## 🏗️ Author
 
 **Altamash Pinjari**
-📧 [altamash@example.com](mailto: altamashpinjari90@gmail.com)
-
+📧 (altamashpinjari90@gmail.com)
 
 ---
 
 ### ⭐ Don’t forget to star the repo if you like this project!
+
 
