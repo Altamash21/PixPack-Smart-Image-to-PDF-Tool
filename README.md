@@ -34,7 +34,6 @@ PixPack/
 │
 ├── input_images/          # Folder with input images
 ├── output.pdf             # Generated PDF file
-├── main.py                # Main Python script
 ├── requirements.txt       # Dependencies list
 ├── sample_data_generation.py  # (Optional) To create random sample images
 └── README.md              # Project documentation
@@ -93,9 +92,10 @@ A new file named `output.pdf` will be generated in the root directory containing
 ## 🏗️ Author
 
 **Altamash Pinjari**
-📧 [altamash@example.com](mailto:altamash@example.com)
-🌐 [GitHub Profile](https://github.com/yourusername)
+📧 [altamash@example.com](mailto: altamashpinjari90@gmail.com)
+
 
 ---
 
 ### ⭐ Don’t forget to star the repo if you like this project!
+
